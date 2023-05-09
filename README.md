@@ -4,4 +4,4 @@ Predicto is a prediction app, using Machine Learning to predict disease occurren
 
 -It has responsive design.
 
--Accuracy of prediction based on the user input is about 95%.
+-Accuracy of prediction based on the user input is about 90%.
